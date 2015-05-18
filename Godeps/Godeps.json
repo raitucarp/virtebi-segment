@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/raitucarp/virtebi-segment",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cheggaaa/pb",
+			"Rev": "d7729fd7ec1372c15b83db39834bf842bf2d69fb"
+		},
+		{
+			"ImportPath": "github.com/syndtr/goleveldb/leveldb",
+			"Rev": "012f65f74744ed62a80abac6e9a8c86e71c2b6fa"
+		},
+		{
+			"ImportPath": "github.com/syndtr/gosnappy/snappy",
+			"Rev": "156a073208e131d7d2e212cb749feae7c339e846"
+		}
+	]
+}

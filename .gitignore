@@ -22,3 +22,10 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+.idea
+*.iml
+virtebi
+corpus.txt
+corpus.db
+Godeps/_workspace
