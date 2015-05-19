@@ -5,7 +5,6 @@
 // to split multiple joined words into readable string.
 package virtebi
 
-
 // import modules
 import (
     "github.com/cheggaaa/pb"

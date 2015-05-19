@@ -12,7 +12,7 @@ First, you have to get the module
 go get github.com/raitucarp/virtebi-segment
 ```
 
-Download the corpus https://github.com/raitucarp/corpus/corpus.txt
+Download the corpus https://github.com/raitucarp/corpus/raw/master/corpus.txt
 Place the corpus to anywhere do you want
 
 Import the module
